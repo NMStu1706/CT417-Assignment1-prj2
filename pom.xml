@@ -13,7 +13,7 @@
         <dependency>
 	    <groupId>com.github.NMStu1706</groupId>
 	    <artifactId>CT417-Assignment1</artifactId>
-	    <version>v5</version>
+	    <version>v7</version>
 	</dependency>
     </dependencies>
     
