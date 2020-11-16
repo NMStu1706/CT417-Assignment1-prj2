@@ -52,6 +52,11 @@ public class TestClass {
         mod2.addStudent(stud1);
         mod2.addStudent(stud2);
         //
+        //print outs for demonstrative purposes
+        System.out.println(course1);
+        System.out.println(course2);
+        System.out.println(mod1);
+        System.out.println(mod2);
         
     }
     
